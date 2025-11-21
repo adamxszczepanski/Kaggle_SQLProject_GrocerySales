@@ -68,3 +68,9 @@ The SQL script joins these tables to:
 The SQL code is provided in the file:
 
 - `Kaggle_Grocery_Project.sql`
+
+---
+
+## Dashboard
+
+The Power BI dashboard coming soon.
